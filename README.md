@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adesh%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CS%20Student%20%C2%B7%20Open%20Source%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=GSSoC+'26+Contributor+%26+Ambassador;Building+full-stack+%26+AI+projects;Solving+DSA+one+day+at+a+time" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027&height=120&section=header&text=Adesh%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=50" width="100%" />
 
 <br/>
 
@@ -64,8 +62,6 @@ and working on interesting projects. Feel free to reach out.
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f2027&height=40&section=footer" width="100%" />
 
 </div>
